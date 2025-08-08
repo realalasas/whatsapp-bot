@@ -1,0 +1,18 @@
+[
+  {
+    "tracking_code": "MSKU1234567",
+    "type": "بحري",
+    "status": "في الطريق",
+    "departure_date": "2025-08-01",
+    "arrival_port": "ميناء جدة الإسلامي",
+    "expected_arrival": "2025-08-19"
+  },
+  {
+    "tracking_code": "AWB456789123",
+    "type": "جوي",
+    "status": "وصل إلى المطار",
+    "departure_date": "2025-08-05",
+    "arrival_port": "مطار الملك خالد",
+    "expected_arrival": "2025-08-07"
+  }
+]
